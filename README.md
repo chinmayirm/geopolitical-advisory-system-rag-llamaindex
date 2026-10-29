@@ -1,4 +1,4 @@
-# UNSC Resolution Voting & Socio-Economic Analysis with RAG
+# Geopolitical Advisory System (RAG)
 
 End-to-end **social computing** pipeline that (1) scrapes United Nations Security Council (UNSC) resolution PDFs (2000–2019), (2) joins them with country-level socio-economic indicators and historical UNSC roll-call votes, (3) performs exploratory quantitative analysis of voting behavior, and (4) builds a **Retrieval-Augmented Generation (RAG)** system over the fused corpus using dense embeddings + FAISS + Llama 3.2 (Groq).
 
