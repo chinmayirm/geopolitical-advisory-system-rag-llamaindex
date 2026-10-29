@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+UN_Security_Council_Resolutions/
+Full_UN_Resolutions.csv
+Full_UN_Resolutions_Formatted.csv
+*.faiss
+index.faiss
+index.pkl
+.cache/
+models/
+.idea/
+.vscode/
